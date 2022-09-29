@@ -167,11 +167,15 @@ footer a {
     .container {
         padding-bottom: 30px;
     }
+    nav {
+        align-items: center;
+    }
     nav a img {
         width: 120px;
     }
     nav ul {
         gap: 23px;
+        margin-bottom: 3px;
     }
     nav ul li:nth-child(1) {
         margin-left: 10px;
