@@ -6,9 +6,11 @@
     box-sizing: border-box;
     text-decoration: none;
     list-style: none;
-    background: #2C2B3D;
     font-family: 'JetBrains Mono', monospace;
     text-align: center;
+}
+body {
+    background: #2C2B3D;
 }
 .container {
     max-width: 1092px;
@@ -190,8 +192,9 @@ footer a {
     }
     .padlock {
         position: relative;
-        bottom: 0;
+        
         width: 100px;
         margin-bottom: 50px;
+        margin-right: 30px;
     }
 }
