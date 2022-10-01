@@ -4,7 +4,7 @@
 
 > Trilha Explorer
 
-Terceiro desafio da Rocketseat da trilha Explorer. Uma linda landing page. O desafio foi criar do zero baseado no figma que recebemos. Por fora eu adicionei transições,animações e responsividade ao projeto. Enquanto o nível 3 não chega, vou continuar aplicando o que aprendi no stage02 heheh
+Esse foi o desafio final do stage 02 da trilha Explorer da Rocketseat. Uma landing page bem lindona. Utilizamos o figma para fazer esse projeto totalmente do zero. Por fora eu adicionei animations, transitions, transformations e responsividade.
 
 [🔗 Clique aqui para acessar](https://filipesantos07.github.io/Rocketseat-Desafio03-Stage02/)
 
