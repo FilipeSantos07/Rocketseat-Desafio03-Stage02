@@ -15,4 +15,4 @@ Esse foi o desafio final do stage 02 da trilha Explorer da Rocketseat. Uma landi
 
 ## 💛 Contato
 
-outerspaceguy@live.co.uk
+FilipeSantosEstudos1@gmail.com
